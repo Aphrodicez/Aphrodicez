@@ -17,7 +17,7 @@ Achievement = ["16th Thailand's Olympiad in Informatics Gold Medal"]
 ---
 
 <p align = "center">
- <code><img src="https://github.com/aphrodicez/aphrodicez/blob/main/C.png" width="100" height="100"></code>
+ <code><img src="https://github.com/aphrodicez/aphrodicez/blob/main/C.png" width="75" height="75"></code>
 </p>
 
 ---
