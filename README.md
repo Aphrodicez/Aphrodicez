@@ -10,7 +10,7 @@
  ---
 
 </p>
- <img align = "left" width = "200" src = "https://github.com/aphrodicez/aphrodicez/blob/main/Coding.gif?raw=true"/>
+ <img align = "center" width = "200" src = "https://github.com/aphrodicez/aphrodicez/blob/main/Coding.gif?raw=true"/>
  
  ---
  
