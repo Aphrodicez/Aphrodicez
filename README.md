@@ -1,8 +1,8 @@
 <h1 align = "center"> Chayanin's Profile </h1>
 
 <h2> Hi 👋, I'm Kang </h2>
-- 🎓 I’m currently practicing Competitive Programming for Olympiad in Informatics <br/> 
-- 💻 I'm currently learning C, C++, Python
+- 🎓 I’m currently practicing Competitive Programming for Olympiad in Informatics <br/> <br/> 
+- 💻 I'm currently learning C, C++, Python <br/> <br/> 
 
 <p align = "center">
  <!--
