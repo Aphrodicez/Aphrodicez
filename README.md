@@ -10,7 +10,7 @@
 </p>
 
  ---
-<img height = "200" src = "https://github.com/aphrodicez/aphrodicez/blob/main/Coding.gif?raw=true"/>
+<img height = "250" src = "https://github.com/aphrodicez/aphrodicez/blob/main/Coding.gif?raw=true"/>
 <h3> 📫 How to reach me: </h3>
 <a href="mailto:kang.chayanin@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <br/>
 <a href="https://facebook.com/chayanin.kang"><img src="https://img.shields.io/badge/facebook-1778F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a> <br/>
