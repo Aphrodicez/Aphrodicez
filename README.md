@@ -6,7 +6,7 @@
 - 🥇 16th Thailand's Olympiad in Informatics Gold Medalist <br/>
 - 💻 I'm currently learning C, C++, and Python <br/> 
 
-```py
+```json
 name = "Chayanin Kongsareekul"
 ```
 
