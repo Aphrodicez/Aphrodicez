@@ -6,8 +6,8 @@
 - 🥇 16th Thailand's Olympiad in Informatics Gold Medalist <br/>
 - 💻 I'm currently learning C, C++, and Python <br/> 
 
-```ini
-[name = "Chayanin Kongsareekul"]
+```json
+name = "Chayanin Kongsareekul"
 ```
 
 ---
