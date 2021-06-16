@@ -1,7 +1,7 @@
 <p align = "center">
  <a href = "https://github.com/aphrodicez">
   <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=aphrodicez&include_all_commits=true&count_private=true&show_icons=true&theme=algolia" alt="Chayanin's Github Stats">
-  <img align="center" width = "200" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aphrodicez&theme=algolia&langs_count=5&exclude_repo=MasterIceZ,anuraghazra,phumipatc,thailand-oi-tasks"
+  <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aphrodicez&theme=algolia&langs_count=5&exclude_repo=MasterIceZ,anuraghazra,phumipatc,thailand-oi-tasks"
  </a>
 </p>
   <!--
