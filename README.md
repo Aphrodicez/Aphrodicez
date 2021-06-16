@@ -1,7 +1,7 @@
 <h2 align = "center"> Chayanin's Profile </h2>
 
 - 🎓 I’m currently practicing Competitive Programming for Olympiad in Informatics <br/> 
-- 💻 I'm currently learning C, C++, Python programming
+- 💻 I'm currently learning C, C++, Python
 
 <p align = "center">
  <!--
