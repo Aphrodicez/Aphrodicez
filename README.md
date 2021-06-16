@@ -5,8 +5,8 @@
  </a>
  !-->
  
- <img align = "center" height="300" src="https://github-readme-stats.vercel.app/api?username=aphrodicez&include_all_commits=true&count_private=true&show_icons=true&theme=algolia" alt="Chayanin's Github Stats">
- <img align = "center" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aphrodicez&theme=algolia&langs_count=5&exclude_repo=MasterIceZ,anuraghazra,phumipatc,thailand-oi-tasks"/> <br/>
+ <img align = "center" height="200" src="https://github-readme-stats.vercel.app/api?username=aphrodicez&include_all_commits=true&count_private=true&show_icons=true&theme=algolia" alt="Chayanin's Github Stats">
+ <img align = "center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aphrodicez&theme=algolia&langs_count=5&exclude_repo=MasterIceZ,anuraghazra,phumipatc,thailand-oi-tasks"/> <br/>
 </p>
 
  ---
@@ -14,11 +14,11 @@
  <img align = "left" height = "300" src = "https://github.com/aphrodicez/aphrodicez/blob/main/Coding.gif?raw=true">
 <p>
  <h3> 📫 How to reach me: </h3>
- <a href="mailto:kang.chayanin@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <br/>
- <a href="https://facebook.com/chayanin.kang"><img src="https://img.shields.io/badge/facebook-1778F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a> <br/>
- <a href="https://instagram.com/kang.cyn"><img src="https://img.shields.io/badge/instagram-E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a> <br/>
- <a href="https://github.com/Aphrodicez"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <br/>
- <a href="https://codeforces.com/profile/Aphrodicez"><img src="https://cp-logo.vercel.app/codeforces/Aphrodicez"/></a> <br/>
+ <a href="mailto:kang.chayanin@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <br/> <br/>
+ <a href="https://facebook.com/chayanin.kang"><img src="https://img.shields.io/badge/facebook-1778F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a> <br/> <br/>
+ <a href="https://instagram.com/kang.cyn"><img src="https://img.shields.io/badge/instagram-E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a> <br/> <br/>
+ <a href="https://github.com/Aphrodicez"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <br/> <br/>
+ <a href="https://codeforces.com/profile/Aphrodicez"><img src="https://cp-logo.vercel.app/codeforces/Aphrodicez"/></a> <br/> <br/>
 </p>
   <!--
 **Aphrodicez/Aphrodicez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
