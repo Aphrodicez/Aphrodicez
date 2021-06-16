@@ -26,6 +26,13 @@ Achievement = ["16th Thailand's Olympiad in Informatics Gold Medal"]
 ---
 
 <p align = "center">
+ <code><img src="https://github.com/aphrodicez/aphrodicez/blob/main/VSCode.png" width="75" height="75"></code>
+ <code><img src="https://github.com/aphrodicez/aphrodicez/blob/main/Unity.png" width="75" height="75"></code>
+</p>
+
+---
+
+<p align = "center">
  
  <img align = "center" height="200" src="https://github-readme-stats.vercel.app/api?username=aphrodicez&include_all_commits=true&count_private=true&show_icons=true&theme=algolia" alt="Chayanin's Github Stats">
  <img align = "center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aphrodicez&theme=algolia&langs_count=5&exclude_repo=MasterIceZ,anuraghazra,phumipatc,thailand-oi-tasks"/> <br/>
