@@ -7,7 +7,7 @@ Name = "Chayanin Kongsareekul"
 NickName = "Kang"
 Age = 18
 Country = "Thailand"
-Code_Favourite = ["C", "C++"]
+Code_Favourite = ["C", "C++", "C#"]
 Code_Learning = ["Python"]
 Achievement = ["16th Thailand's Olympiad in Informatics Gold Medal"]
  ```
