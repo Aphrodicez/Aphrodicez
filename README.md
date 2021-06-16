@@ -1,5 +1,5 @@
 <h2 align = "center"> Chayanin's Profile </h2>
-- 🌱 I’m currently learning ... <br/> <br/>
+-🌱 I’m currently learning ... <br/> <br/>
 
 <p align = "center">
  <!--
