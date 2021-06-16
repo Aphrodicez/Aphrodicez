@@ -12,7 +12,7 @@
  ---
  
 <p>
- <h3> 📫 How to reach me: </h3> <mark>kang.chayanin@gmail.com</mark> 
+ <h3> 📫 How to reach me: <mark>kang.chayanin@gmail.com</mark> </h3>
  <a href="mailto:kang.chayanin@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">  </a>
 </p>
  
