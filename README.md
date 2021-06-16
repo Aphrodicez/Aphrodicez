@@ -1,11 +1,5 @@
 <h1 align = "center"> Chayanin's Profile </h1>
 
-<h2> Hi 👋, I'm Kang </h2>
-- 👦 My name is Chayanin Kongsareekul, 18, from Thailand <br/>
-- 🎓 I’m currently practicing Competitive Programming for Olympiad in Informatics <br/>
-- 🥇 16th Thailand's Olympiad in Informatics Gold Medalist <br/>
-- 💻 I'm currently learning C, C++, and Python <br/> 
-
 <h3>
 
  ```json
@@ -15,6 +9,7 @@ Age = 18
 Country = "Thailand"
 Code_Favourite = ["C", "C++"]
 Code_Learning = ["Python"]
+Achievement = ["16th Thailand's Olympiad in Informatics Gold Medal"]
  ```
 
 </h3>
