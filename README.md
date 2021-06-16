@@ -13,9 +13,9 @@
 
 
 
--🌱 I’m currently learning ... <br/> 
--👯 I’m looking to collaborate on ...<br/>
--🤔 I’m looking for help with ...
+- 🌱 I’m currently learning ... <br/> 
+- 👯 I’m looking to collaborate on ...<br/>
+- 🤔 I’m looking for help with ...
 
 
 
