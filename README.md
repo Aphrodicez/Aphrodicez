@@ -4,6 +4,8 @@
 - 🎓 I’m currently practicing Competitive Programming for Olympiad in Informatics <br/>
 - 💻 I'm currently learning C, C++, Python <br/> <br/> 
 
+---
+
 <p align = "center">
  <!--
  <a href = "https://github.com/aphrodicez">
