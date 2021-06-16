@@ -6,14 +6,15 @@
 - 🥇 16th Thailand's Olympiad in Informatics Gold Medalist <br/>
 - 💻 I'm currently learning C, C++, and Python <br/> 
 
-<h1>
+<h3>
 
  ```json
 Name = "Chayanin Kongsareekul"
 NickName = "Kang"
-```
+Age = 18
+ ```
 
-</h1>
+</h3>
 
 ---
 
