@@ -12,6 +12,7 @@
 Name = "Chayanin Kongsareekul"
 NickName = "Kang"
 Age = 18
+Country = "Thailand"
 Code_Favourite = ["C", "C++"]
 Code_Learning = ["Python"]
  ```
