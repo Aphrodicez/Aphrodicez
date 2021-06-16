@@ -7,7 +7,7 @@
  <img align = "center" height="200" src="https://github-readme-stats.vercel.app/api?username=aphrodicez&include_all_commits=true&count_private=true&show_icons=true&theme=algolia" alt="Chayanin's Github Stats">
  <img align = "center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aphrodicez&theme=algolia&langs_count=5&exclude_repo=MasterIceZ,anuraghazra,phumipatc,thailand-oi-tasks"
 </p>
- <img align = "center" width = "300" src = "https://github.com/aphrodicez/aphrodicez/blob/main/Coding.gif?raw=true">
+ <img align = "center" width = "300" height = "200" src = "https://github.com/aphrodicez/aphrodicez/blob/main/Coding.gif?raw=true">
   <!--
 **Aphrodicez/Aphrodicez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
