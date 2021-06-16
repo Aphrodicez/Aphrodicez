@@ -1,4 +1,4 @@
-<h2 align = "center"> Chayanin Kongsareekul's Profile </h2>
+<h2 align = "center"> Chayanin's Profile </h2>
 <p align = "center">
  <a href = "https://github.com/aphrodicez">
   <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=aphrodicez&include_all_commits=true&count_private=true&show_icons=true&theme=algolia" alt="Chayanin's Github Stats">
