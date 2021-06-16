@@ -1,4 +1,5 @@
 <h2 align = "center"> Chayanin's Profile </h2>
+- 🌱 I’m currently learning ...
 <p align = "center">
  <!--
  <a href = "https://github.com/aphrodicez">
