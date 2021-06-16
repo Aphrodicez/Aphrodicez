@@ -1,5 +1,5 @@
 <p align = "center">
- <img align="center" width="390" height="130" src="https://github-readme-stats.vercel.app/api?username=aphrodicez&include_all_commits=true&count_private=true&show_icons=true&line_height=20" alt="Chayanin's Github Stats">
+ <img align="center" width="390" height="130" src="https://github-readme-stats.vercel.app/api?username=aphrodicez&include_all_commits=true&count_private=true&show_icons=true&line_height=20" alt="Chayani's Github Stats">
 </p>
   <!--
 **Aphrodicez/Aphrodicez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
