@@ -3,7 +3,7 @@
 <h2> Hi 👋, I'm Kang </h2>
 - 👦 My name is Chayanin Kongsareekul, 18, from Thailand <br/>
 - 🎓 I’m currently practicing Competitive Programming for Olympiad in Informatics <br/>
-- 🥇 16th Thailand's Olympiad in Informatics Gold Medalist
+- 🥇 16th Thailand's Olympiad in Informatics Gold Medalist <br/>
 - 💻 I'm currently learning C, C++, and Python <br/> 
 
 ---
