@@ -11,10 +11,8 @@
  
  ---
  
-<p>
 - 📫 How to reach me: <mark>kang.chayanin@gmail.com</mark>
  <a href="mailto:kang.chayanin@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">  </a>
-</p>
  
   <!--
 **Aphrodicez/Aphrodicez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
