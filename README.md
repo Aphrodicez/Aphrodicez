@@ -11,7 +11,7 @@
  
  ---
  
-<h3> 📫 Contacts </h3>
+<h3> 📫 How to reach me: </h3>
  
   <!--
 **Aphrodicez/Aphrodicez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
