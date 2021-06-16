@@ -11,7 +11,7 @@
 
  ---
  
- <img align = "left" height = "300" src = "https://github.com/aphrodicez/aphrodicez/blob/main/Coding.gif?raw=true">
+ <img align = "center" height = "300" src = "https://github.com/aphrodicez/aphrodicez/blob/main/Coding.gif?raw=true">
 <p>
  <h3> 📫 How to reach me: </h3>
  <a href="mailto:kang.chayanin@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <br/> <br/>
