@@ -7,10 +7,12 @@
 - 💻 I'm currently learning C, C++, and Python <br/> 
 
 <h3>
-```json
+
+ ```json
 Name = "Chayanin Kongsareekul"
 NickName = "Kang"
 ```
+
 </h3>
 
 ---
