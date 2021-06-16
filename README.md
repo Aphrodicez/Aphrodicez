@@ -10,9 +10,16 @@
  <img align = "center" height="200" src="https://github-readme-stats.vercel.app/api?username=aphrodicez&include_all_commits=true&count_private=true&show_icons=true&theme=algolia" alt="Chayanin's Github Stats">
  <img align = "center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aphrodicez&theme=algolia&langs_count=5&exclude_repo=MasterIceZ,anuraghazra,phumipatc,thailand-oi-tasks"/> <br/>
 </p>
- -🌱 I’m currently learning ... <br/> 
+
+
+
+-🌱 I’m currently learning ... <br/> 
 -👯 I’m looking to collaborate on ...<br/>
 -🤔 I’m looking for help with ...
+
+
+
+
   ---
  
  <img align = "left" height = "350" src = "https://github.com/aphrodicez/aphrodicez/blob/main/Coding.gif?raw=true">
