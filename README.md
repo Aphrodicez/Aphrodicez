@@ -1,7 +1,7 @@
 <p align = "center">
  <a href = "https://github.com/aphrodicez">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aphrodicez&include_all_commits=true&count_private=true&show_icons=true&theme=algolia" alt="Chayanin's Github Stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aphrodicez&layout=compact&theme=algolia"
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aphrodicez&theme=algolia"
  </a>
 </p>
   <!--
