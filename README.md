@@ -11,7 +11,10 @@
  
  ---
  
-<h3> 📫 How to reach me: </h3>
+<p>
+ <h3> 📫 How to reach me: </h3>
+ <h3> ✉️ kang.chayanin@gmail.com </h3>
+</p>
  
   <!--
 **Aphrodicez/Aphrodicez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
