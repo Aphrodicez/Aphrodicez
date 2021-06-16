@@ -13,7 +13,7 @@
  
 <p>
  <h3> 📫 How to reach me: </h3>
- <h3> ✉️ kang.chayanin@gmail.com </h3>
+ <h3> ✉️ **kang.chayanin@gmail.com** </h3>
 </p>
  
   <!--
