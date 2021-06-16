@@ -12,7 +12,7 @@
  ---
 <p align = "center">
  <img align = "center" height = "300" src = "https://github.com/aphrodicez/aphrodicez/blob/main/Coding.gif?raw=true">
- <h3 align = "center"> 📫 How to reach me: </h3>
+ <h3 align = "right"> 📫 How to reach me: </h3>
  <a href="mailto:kang.chayanin@gmail.com"><img align = "right" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <br/>
  <a href="https://facebook.com/chayanin.kang"><img src="https://img.shields.io/badge/facebook-1778F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a> <br/>
  <a href="https://instagram.com/kang.cyn"><img src="https://img.shields.io/badge/instagram-E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a> <br/>
