@@ -8,10 +8,11 @@
  <img align = "center" height="200" src="https://github-readme-stats.vercel.app/api?username=aphrodicez&include_all_commits=true&count_private=true&show_icons=true&theme=algolia" alt="Chayanin's Github Stats">
  <img align = "center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aphrodicez&theme=algolia&langs_count=5&exclude_repo=MasterIceZ,anuraghazra,phumipatc,thailand-oi-tasks"/> <br/>
 </p>
-
- ---
  
  <img align = "left" height = "300" src = "https://github.com/aphrodicez/aphrodicez/blob/main/Coding.gif?raw=true">
+
+ ---
+
 <p>
  <h3> 📫 How to reach me: </h3>
  <a href="mailto:kang.chayanin@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <br/> <br/>
