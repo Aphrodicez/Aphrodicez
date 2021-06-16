@@ -1,6 +1,6 @@
 <p align = "center">
  <a href = "https://github.com/aphrodicez">
-  <img align="center" width = "300" height="200" src="https://github-readme-stats.vercel.app/api?username=aphrodicez&include_all_commits=true&count_private=true&show_icons=true&theme=algolia" alt="Chayanin's Github Stats">
+  <img align="center" width = "500" height="200" src="https://github-readme-stats.vercel.app/api?username=aphrodicez&include_all_commits=true&count_private=true&show_icons=true&theme=algolia" alt="Chayanin's Github Stats">
   <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aphrodicez&theme=algolia&langs_count=5&exclude_repo=MasterIceZ,anuraghazra,phumipatc,thailand-oi-tasks"
  </a>
 </p>
