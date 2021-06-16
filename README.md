@@ -12,6 +12,8 @@
 Name = "Chayanin Kongsareekul"
 NickName = "Kang"
 Age = 18
+Code_Favourite = ["C", "C++"]
+Code_Learning = ["Python"]
  ```
 
 </h3>
