@@ -2,7 +2,7 @@
 
 <h2> Hi 👋, I'm Kang </h2>
 - 🎓 I’m currently practicing Competitive Programming for Olympiad in Informatics <br/>
-- 💻 I'm currently learning C, C++, Python <br/> 
+- 💻 I'm currently learning C, C++, and Python <br/> 
 
 ---
 
