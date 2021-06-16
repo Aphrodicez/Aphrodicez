@@ -18,7 +18,7 @@
  <a href="mailto:kang.chayanin@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <br/> <br/>
  <a href="https://facebook.com/chayanin.kang"><img src="https://img.shields.io/badge/facebook-1778F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a> <br/> <br/>
  <a href="https://instagram.com/kang.cyn"><img src="https://img.shields.io/badge/instagram-E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a> <br/> <br/>
- <a href="https://github.com/Aphrodicez"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <br/> <br/>
+ <a href="https://github.com/Aphrodicez"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <br/>
  <a href="https://codeforces.com/profile/Aphrodicez"><img src="https://cp-logo.vercel.app/codeforces/Aphrodicez"/></a> <br/> <br/>
 </p>
   <!--
