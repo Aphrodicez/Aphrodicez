@@ -9,6 +9,7 @@
 </p>
 ---
  <img align = "left" width = "200" src = "https://github.com/aphrodicez/aphrodicez/blob/main/Coding.gif?raw=true">
+---
   <!--
 **Aphrodicez/Aphrodicez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
