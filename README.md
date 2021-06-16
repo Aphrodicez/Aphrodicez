@@ -1,6 +1,6 @@
 <h2 align = "center"> Chayanin's Profile </h2>
 
---
+---
 
 <p align = "center">
  <!--
